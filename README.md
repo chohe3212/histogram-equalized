@@ -1,1 +1,1 @@
-# chohe3212-histogram-equalized
+# histogram-equalized
