@@ -17,8 +17,4 @@
 * cv2는 이미지 불러올때만 사용하였습니다.
 
 
-![test_image](https://user-images.githubusercontent.com/89963228/228206051-7967a654-e28b-4aa5-b255-e9509f121128.jpg)
-
-
-
-![output_image](https://user-images.githubusercontent.com/89963228/228206065-fc66d03d-d53a-428b-938f-5924fab4292e.jpg)
+![test_image](https://user-images.githubusercontent.com/89963228/228206051-7967a654-e28b-4aa5-b255-e9509f121128.jpg) | ![output_image](https://user-images.githubusercontent.com/89963228/228206065-fc66d03d-d53a-428b-938f-5924fab4292e.jpg)
