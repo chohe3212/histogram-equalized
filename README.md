@@ -16,11 +16,11 @@
 * 컬러영상을 hsi로 변환하여 평활화하였습니다.
 * cv2는 이미지 불러올때만 사용하였습니다.
 
-<img src="/test_image.jpg" width="300" height="300"/>   
+<center><img src="/test_image.jpg" width="300" height="300"/></center> 
 
-test image
+<center>test image</center>
 
-<img src="/output_image.jpg" width="550" height="450"/> 
+<center><img src="/output_image.jpg" width="550" height="450"/> </center>
 
 
-output image
+<center>output image</center>
