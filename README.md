@@ -5,9 +5,8 @@
 저대비 영상을 고대비 영상으로 바꾸기 위해 사용된다.
 
 히스토그램 평활화 식은 
-![평활화 식](https://user-images.githubusercontent.com/89963228/228205101-7444fcc3-46ce-43b1-8964-719175553503.PNG)
 
-
+![평활화 식](https://user-images.githubusercontent.com/89963228/228205415-3fee933e-014e-436a-a1ac-aed529ad58b5.PNG)
 
 
 2. 히스토그램 평활화 코드
