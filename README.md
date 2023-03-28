@@ -17,4 +17,6 @@
 * cv2는 이미지 불러올때만 사용하였습니다.
 
 
-![test_image](/test_image.jpg){: width="100px" height="100px"}  ![output_image](/output_image.jpg){: width="100px" height="100px"}
+<img src="/test_image.jpg" width="200" height="400"/> 
+<img src="/output_image.jpg" width="200" height="400"/> 
+
