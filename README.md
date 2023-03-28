@@ -17,5 +17,5 @@
 * cv2는 이미지 불러올때만 사용하였습니다.
 
 
-<p align="center"><img src="/test_image.jpg" width="300" height="300"/> -> <img src="/output_image.jpg" width="650" height="500"/> 
+<p align="center"><img src="/test_image.jpg" width="300" height="300"/> <img src="/output_image.jpg" width="650" height="500"/> 
 
