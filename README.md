@@ -18,7 +18,4 @@
 
 
 <img src="/test_image.jpg" width="300" height="300"/> <img src="/output_image.jpg" width="550" height="450"/> 
-
-
-test                            output
-
+test & output image
