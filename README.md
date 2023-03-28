@@ -1,4 +1,4 @@
-# histogram-equalized
+# Histogram-equalized
 
 1. 히스토그램 평활화란?
 어두운 영상의 히스토그램을 조절해 명암분포가 균일하게 되도록 만들어주는 것입니다.
@@ -17,4 +17,4 @@
 * cv2는 이미지 불러올때만 사용하였습니다.
 
 
-![test_image](https://user-images.githubusercontent.com/89963228/228206051-7967a654-e28b-4aa5-b255-e9509f121128.jpg){: width="100" height="100"}  ![output_image](https://user-images.githubusercontent.com/89963228/228206065-fc66d03d-d53a-428b-938f-5924fab4292e.jpg){: width="100" height="100"}
+![test_image](/test_image.png){: width="100" height="100"}  ![output_image](/output_image.png){: width="100" height="100"}
