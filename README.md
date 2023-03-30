@@ -21,6 +21,4 @@
 <p align="center">test image</p>
 
 <p align="center"><img src="/output_image.jpg" width="550" height="450"/></p>
-
-
 <p align="center">output image</p>
